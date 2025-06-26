@@ -1,0 +1,10 @@
+h1{
+    font-family: "Libertinus Math", verdana, arial;
+}
+
+p{
+    font-family: "lucida console", "courier new";
+    font-size: 1.1em; /* 1.1 for 110% */
+    font-weight: bold;
+    font-style: italic;
+}
