@@ -1,0 +1,18 @@
+/* h1{
+    border-style: solid;
+    border-width: 5px;
+    border-color: black;
+    border-radius: 5px
+} */
+
+h1{
+    border: 3px solid hsl(262, 100%, 56%);
+    border-radius: 20px;
+}
+
+p{
+    border-bottom: 3px solid rgb(252, 28, 28);
+    border-top: 3px solid yellow;
+    border-left: 3px solid rgb(255, 179, 37);
+    border-right: 3px dotted rgb(62, 255, 62);
+}
